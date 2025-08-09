@@ -5,6 +5,8 @@ import Xpic from '../images/Xclone.jpeg';
 import passOP from '../images/passOP.jpeg';
 import JobPortal from '../images/JobPortal.jpeg';
 import codmetics from '../images/codmetics.jpeg';
+import postman from '../images/postman.jpeg';
+import googleColab from '../images/googleColab.png';
 
 export const Bio = {
   name: "Anees khan",
@@ -17,7 +19,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Aneeskhan7",
   resume:
-    "https://drive.google.com/drive/folders/1LbyNIsb2YPcbeBsYXpKsy7KKdb8YVIbx?dmr=1&ec=wgc-drive-globalnav-goto",
+    "/Resume.pdf",
   linkedin: "https://www.linkedin.com/in/anees-khan-b6aa75237/",
   twitter: "https://x.com/AneesKh29715201",
   insta: "https://www.instagram.com/_aneeskhan1/",
@@ -112,7 +114,7 @@ export const skills = [
       {
         name: "Google Colab",
         image:
-          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+          googleColab,
       },
       {
         name: "Sk Learn Kit",
@@ -147,7 +149,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
+          postman,
       },
 
       {
