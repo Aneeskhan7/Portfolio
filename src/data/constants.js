@@ -214,7 +214,7 @@ export const education = [
     id: 2,
     img: comsatlogo,
     school: "Comsat University Islamabad, Abbottabad Campus",
-    date: "Apr 2017 - Apr 2019",
+    date: "March 2022 - present",
     grade: "2.8 CGPA",
     desc: "I’m a Computer Science student at COMSATS University Islamabad, Abbottabad Campus, with a strong interest in Software Engineering. I’m passionate about building efficient, user-focused software solutions and continuously learning new technologies.",
     degree: "BS Computer Science",
