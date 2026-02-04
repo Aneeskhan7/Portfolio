@@ -7,6 +7,7 @@ import JobPortal from '../images/JobPortal.jpeg';
 import codmetics from '../images/codmetics.jpeg';
 import postman from '../images/postman.jpeg';
 import googleColab from '../images/googleColab.png';
+import fyp from "../images/fyp.jpg"
 
 export const Bio = {
   name: "Anees khan",
@@ -162,27 +163,25 @@ export const skills = [
 ];
 
 export const experiences = [
-  // {
-  //   id: 0,
-  //   img: codmetics,
-  //   role: "Fullstack internship",
-  //   company: "Codmetics",
-  //   date: "July 2025 - present",
-  //   desc: "Built an Job management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-  //   skills: [
-  //     "ReactJS",
-  //     "Redux",
-  //     "NodeJs",
-  //     "Material UI",
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //     "Docker",
-  //     "AWS",
-  //     "MongoDB",
-  //   ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
-  // },
+  {
+    id: 0,
+    img: codmetics,
+    role: "Fullstack internship",
+    company: "Codmetics",
+    date: "July 2025 - Sep 2025",
+    desc: "Built a full-stack Job Portal web application enabling efficient job posting and application management, and was recognized as a top performer in the program for strong implementation and problem-solving.",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MongoDB",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
+  },
 
   // {
   //   id: 1,
@@ -282,6 +281,23 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Aneeskhan7/JobPortal_Frontend",
+  },  
+    {
+    id: 4,
+    title: "Calculas Problem Solver",
+    date: "March 2025 - Dec 2025",
+    description:
+    "Calculus Solver is a mobile-based application that helps students solve calculus problems by simply capturing images of mathematical expressions. It uses OCR to extract text from images, processes and cleans the data through a Flask backend, and solves limits, integrals, and derivatives using the SymPy library. The app delivers accurate solutions through a clean and user-friendly interface, making calculus problem-solving faster and more accessible.",
+    image:
+      fyp,
+    tags: [
+      "Flutter",
+      "Postgress",
+      "Python",
+      "Flask",
+    ],
+    category: "andriod app",
+    github: "https://github.com/Aneeskhan7/FYP",
   },  
 ];
 

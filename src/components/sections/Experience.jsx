@@ -55,7 +55,7 @@ const Desc = styled.div`
 const Experience = () => {
     return (
         <Container id="Experience">
-            {/* <Wrapper>
+            <Wrapper>
                 <Title>Experience</Title>
                 <Desc
                     style={{
@@ -74,7 +74,7 @@ const Experience = () => {
                         />
                     ))}
                 </VerticalTimeline>
-            </Wrapper> */}
+            </Wrapper>
         </Container>
     );
 };
