@@ -12,12 +12,12 @@ import fyp from "../images/fyp.jpg"
 
 import advanceReactPDF from "../assets/certificates/AdvanceReactCertificate.pdf";
 import basicReactPDF from "../assets/certificates/BasicReactCertificate.pdf";
-import apiPDF from "../assets/certificates/Apicertificate.pdf";
+import apiPDF from "../assets/certificates/ApiCertificate.pdf";
 import databasePDF from "../assets/certificates/DataBaseforBackend.pdf";
-import frontendPDF from "../assets/certificates/Frontendcertificate.pdf";
-import javascriptPDF from "../assets/certificates/Javascriptcertificate.pdf";
-import versionControlPDF from "../assets/certificates/Versioncontrolcertificate.pdf";
-import DjangoPDF from "../assets/certificates/Djangocertificate.pdf";
+import frontendPDF from "../assets/certificates/FrontendCertificate.pdf";
+import javascriptPDF from "../assets/certificates/JavascriptCertificate.pdf";
+import versionControlPDF from "../assets/certificates/VersionControlCertificate.pdf";
+import DjangoPDF from "../assets/certificates/DjangoCertificate.pdf";
 
 
 // Preview Images
