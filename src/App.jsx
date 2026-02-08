@@ -12,6 +12,8 @@ import StarCanvas from "./components/canvas/Stars.jsx"
 import Projects from './components/sections/Projects.jsx'
 import Contact from './components/sections/Contact.jsx'
 import Footer from './components/sections/Footer.jsx'
+import Certificates from './components/sections/Certificates.jsx'
+
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -67,6 +69,7 @@ const App = () => {
             </Wrapper>
             <Projects/>
             <Wrapper>
+              <Certificates/>
               <Education />
               <Contact/>
             </Wrapper>

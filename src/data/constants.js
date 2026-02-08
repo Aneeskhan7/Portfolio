@@ -4,10 +4,31 @@ import echobeatpic from '../images/echobeats.jpeg';
 import Xpic from '../images/Xclone.jpeg';
 import passOP from '../images/passOP.jpeg';
 import JobPortal from '../images/JobPortal.jpeg';
-import codmetics from '../images/codmetics.jpeg';
+import codealpha from "../images/codealpha.jpg"
 import postman from '../images/postman.jpeg';
 import googleColab from '../images/googleColab.png';
 import fyp from "../images/fyp.jpg"
+
+
+import advanceReactPDF from "../assets/certificates/Advance React Certificate.pdf";
+import basicReactPDF from "../assets/certificates/Basic React Certificate.pdf";
+import apiPDF from "../assets/certificates/Api certificate.pdf";
+import databasePDF from "../assets/certificates/DataBase for Backend.pdf";
+import frontendPDF from "../assets/certificates/Frontend certificate.pdf";
+import javascriptPDF from "../assets/certificates/Javascript certificate.pdf";
+import versionControlPDF from "../assets/certificates/Version control certificate.pdf";
+import DjangoPDF from "../assets/certificates/Django certificate.pdf";
+
+
+// Preview Images
+import advanceReactImg from "../assets/certificates/advance-react.png";
+import basicReactImg from "../assets/certificates/basic-react.png";
+import apiImg from "../assets/certificates/api.png";
+import databaseImg from "../assets/certificates/database.png";
+import frontendImg from "../assets/certificates/frontend.png";
+import javascriptImg from "../assets/certificates/javascript.png";
+import versionControlImg from "../assets/certificates/version-control.png";
+import django from "../assets/certificates/django.png";
 
 export const Bio = {
   name: "Anees khan",
@@ -165,10 +186,10 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: codmetics,
+    img: codealpha,
     role: "Fullstack internship",
-    company: "Codmetics",
-    date: "July 2025 - Sep 2025",
+    company: "code Alpha",
+    date: "Nov 2025 - Jan 2026",
     desc: "Built a full-stack Job Portal web application enabling efficient job posting and application management, and was recognized as a top performer in the program for strong implementation and problem-solving.",
     skills: [
       "ReactJS",
@@ -300,4 +321,56 @@ export const projects = [
     github: "https://github.com/Aneeskhan7/FYP",
   },  
 ];
+
+export const certificates = [
+  {
+    id: 0,
+    name: "Advanced React",
+    preview: advanceReactImg,
+    pdf: advanceReactPDF,
+  },
+  {
+    id: 1,
+    name: "APIs",
+    preview: apiImg,
+    pdf: apiPDF,
+  },
+  {
+    id: 2,
+    name: "Introduction to Databases for Back-End Development",
+    preview: databaseImg,
+    pdf: databasePDF,
+  },
+  {
+    id: 3,
+    name: "Introduction to Front-End Development",
+    preview: frontendImg,
+    pdf: frontendPDF,
+  },
+  {
+    id: 4,
+    name: "Programming with JavaScript",
+    preview: javascriptImg,
+    pdf: javascriptPDF,
+  },
+  {
+    id: 5,
+    name: "Version Control",
+    preview: versionControlImg,
+    pdf: versionControlPDF,
+  },
+   {
+    id: 6,
+    name: "Basic React",
+    preview: basicReactImg,
+    pdf: basicReactPDF,
+  },
+   {
+    id: 7,
+    name: "Django",
+    preview: django,
+    pdf: DjangoPDF,
+  },
+];
+
 
