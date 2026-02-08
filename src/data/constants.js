@@ -10,14 +10,14 @@ import googleColab from '../images/googleColab.png';
 import fyp from "../images/fyp.jpg"
 
 
-import advanceReactPDF from "../assets/certificates/Advance React Certificate.pdf";
-import basicReactPDF from "../assets/certificates/Basic React Certificate.pdf";
-import apiPDF from "../assets/certificates/Api certificate.pdf";
-import databasePDF from "../assets/certificates/DataBase for Backend.pdf";
-import frontendPDF from "../assets/certificates/Frontend certificate.pdf";
-import javascriptPDF from "../assets/certificates/Javascript certificate.pdf";
-import versionControlPDF from "../assets/certificates/Version control certificate.pdf";
-import DjangoPDF from "../assets/certificates/Django certificate.pdf";
+import advanceReactPDF from "../assets/certificates/AdvanceReactCertificate.pdf";
+import basicReactPDF from "../assets/certificates/BasicReactCertificate.pdf";
+import apiPDF from "../assets/certificates/Apicertificate.pdf";
+import databasePDF from "../assets/certificates/DataBaseforBackend.pdf";
+import frontendPDF from "../assets/certificates/Frontendcertificate.pdf";
+import javascriptPDF from "../assets/certificates/Javascriptcertificate.pdf";
+import versionControlPDF from "../assets/certificates/Versioncontrolcertificate.pdf";
+import DjangoPDF from "../assets/certificates/Djangocertificate.pdf";
 
 
 // Preview Images
