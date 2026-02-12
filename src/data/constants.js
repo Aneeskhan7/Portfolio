@@ -189,7 +189,7 @@ export const experiences = [
     img: codealpha,
     role: "Fullstack internship",
     company: "code Alpha",
-    date: "Nov 2025 - Jan 2026",
+    date: "Nov 2025 - Dec 2025",
     desc: "Built a full-stack Job Portal web application enabling efficient job posting and application management, and was recognized as a top performer in the program for strong implementation and problem-solving.",
     skills: [
       "ReactJS",
