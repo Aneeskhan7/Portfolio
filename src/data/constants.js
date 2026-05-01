@@ -5,6 +5,7 @@ import Xpic from '../images/Xclone.jpeg';
 import passOP from '../images/passOP.jpeg';
 import JobPortal from '../images/JobPortal.jpeg';
 import codealpha from "../images/codealpha.jpg"
+import technologies99 from "../images/99technologies.jpg"
 import postman from '../images/postman.jpeg';
 import googleColab from '../images/googleColab.png';
 import fyp from "../images/fyp.jpg"
@@ -203,9 +204,26 @@ export const experiences = [
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
   },
+  {
+    id: 1,
+    img: technologies99,
+    role: "Full Stack Developer",
+    company: "99 Technologies",
+    date: "Feb 2026 - Present",
+    desc: "Building and working on a range of scalable web applications, contributing across both frontend and backend. Designing RESTful APIs, developing responsive user interfaces, integrating relational and non-relational databases, and collaborating with the team to deliver production-ready features with clean, maintainable code.",
+    skills: [
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "TypeScript",
+      "NestJS",
+      "PostgreSQL",
+      "MongoDB",
+    ],
+  },
 
   // {
-  //   id: 1,
+  //   id: 2,
   //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
   //   role: "Open Source Contributor ",
   //   company: "Google Summer of Code",
